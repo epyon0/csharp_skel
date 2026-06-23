@@ -40,10 +40,10 @@
             outputRichtextbox.BackColor = Color.Black;
             outputRichtextbox.BorderStyle = BorderStyle.None;
             outputRichtextbox.ForeColor = Color.Lime;
-            outputRichtextbox.Location = new Point(465, 126);
+            outputRichtextbox.Location = new Point(279, 31);
             outputRichtextbox.Name = "outputRichtextbox";
             outputRichtextbox.ReadOnly = true;
-            outputRichtextbox.Size = new Size(323, 302);
+            outputRichtextbox.Size = new Size(509, 397);
             outputRichtextbox.TabIndex = 0;
             outputRichtextbox.Text = "";
             outputRichtextbox.LinkClicked += richTextBox1_LinkClicked;
